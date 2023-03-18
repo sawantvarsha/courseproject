@@ -1,0 +1,13 @@
+{
+    "name": "Node-app-C3_Project",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Srinivasan",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
