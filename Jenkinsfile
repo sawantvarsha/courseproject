@@ -8,7 +8,7 @@ pipeline {
     stages {      
         stage('Cloning Git') {
             steps {
-                git url: 'https://github.com/srinivasanmsk/C3-Project', branch: "main" 
+                git url: 'https://github.com/sawantvarsha/courseproject.git', branch: "main" 
             }
         }
   
